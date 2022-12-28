@@ -1,0 +1,9 @@
+.input-form{
+    width: 40%;
+    margin: auto;
+    margin-top: 10%;
+}
+.input-form > form{
+    display: flex;
+    flex-direction: column;
+}

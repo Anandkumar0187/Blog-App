@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    border: 1px solid black;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.navbar > div{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.navbar > h2:hover{
+    color: blue;
+}
+.navbar > h3:hover{
+    color: blue;
+}
+.navbar > div > h3:hover{
+    color: blue;
+}
